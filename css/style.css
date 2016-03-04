@@ -63,6 +63,10 @@ div.screenshots span img {
     max-width: 30%;
 }
 
+div.screenshotsdriver span img {
+    max-width: 15%;
+}
+
 div.what-is-the-problem {
     height: 100%;
     width: 100%;
