@@ -1,0 +1,82 @@
+html,
+body,
+section,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small {
+    font-family: 'Alef', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small {
+    direction: rtl;
+}
+
+ul {
+    display: block;
+    margin-right: 100px;
+}
+
+p,
+ul,
+li {
+    direction: rtl;
+    text-align: right;
+}
+
+.reveal .progress {
+    direction: rtl;
+}
+
+.reveal section img {
+    margin: 15px 0px;
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+
+img.openning {
+    height: 333px;
+}
+
+p.createdby {
+    text-align: center;
+}
+
+div.screenshots {
+    display: block;
+    width: 90%;
+}
+
+div.screenshots span img {
+    max-width: 30%;
+}
+
+div.what-is-the-problem {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/people_sherut.jpg');
+}
+
+section.solution h2 {
+    color: white;
+    margin-top: 500px;
+    margin-right: 185px;
+}
+
+img.hero {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
