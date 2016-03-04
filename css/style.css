@@ -80,3 +80,7 @@ img.hero {
     height: 200px;
     border-radius: 50%;
 }
+
+p.whoarewe {
+    text-align: center;
+}
